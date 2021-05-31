@@ -3,7 +3,7 @@ import Product from "./Product.js";
 import "./Home.css";
 
 
-const Home = () => {
+function Home() {
     return (
         <div className="home">
         <div className="home__container">
